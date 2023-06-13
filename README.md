@@ -1,4 +1,4 @@
-# Scaling NLP Workloads with Ray and Anyscale
+# Build and deploy LLM applications with Ray and Anyscale
 
 © 2023, Anyscale Inc. All Rights Reserved
 
@@ -8,7 +8,7 @@
 <a href="https://discuss.ray.io/"><img src="https://img.shields.io/badge/Discuss-Ask%20Questions-blue" alt="discuss"></a>
 <a href="https://twitter.com/raydistributed"><img src="https://img.shields.io/twitter/follow/raydistributed?label=Follow" alt="twitter"></a>
 
-## Build and deploy LLM-based applications
+## Overview
 
 LLMs have gained immense popularity in recent months. An entirely new ecosystem of pre-trained models and tools has emerged that streamline the process of building LLM-based applications.
 
