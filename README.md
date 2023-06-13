@@ -14,10 +14,7 @@ LLMs have gained immense popularity in recent months. An entirely new ecosystem 
 
 Here, you will build question answering (QA) service designed to run locally. You will learn how to scale your application using Ray and Anyscale to run it in the cloud. Finally, you will learn how to use modern tools to run your application on the production-grade platform.
 
-
-<img src="https://technical-training-assets.s3.us-west-2.amazonaws.com/LLMs/QA_App.png" width="60%" loading="lazy">
-
-*Application dataflow*
+<img src="https://technical-training-assets.s3.us-west-2.amazonaws.com/LLMs/QA_App.png" width="80%" loading="lazy">
 
 ## Key Takeaways
 
